@@ -8,7 +8,7 @@ site-update: enabled
 |---|---|
 | 网站名字 | UA Lawyers 律师事务所官网 |
 | 代码位置 | `/Users/nas/Documents/ua-lawyers-website` |
-| GitHub 仓库 | `ualawyers/ua-lawyers-website` |
+| GitHub 仓库 | `Ua-Lawyers/ua-lawyers-website` |
 | 部署分支 | `main` |
 | 线上网址 | https://ua-lawyers.vercel.app |
 | 部署方式 | Vercel 自动部署 —— **只要推送到 `main`，1–2 分钟后自动上线**，不需要任何人去操作 Vercel |
