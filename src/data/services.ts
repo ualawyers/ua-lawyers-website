@@ -203,7 +203,7 @@ export const services: Service[] = [
       "Defence",
       "Sentence Negotiations",
     ],
-    contacts: ["annie-rao", "jingjing-luan", "wilson-zhang"],
+    contacts: ["jingjing-luan", "wilson-zhang"],
     featuredPost: "gun-control-in-australia",
   },
   {

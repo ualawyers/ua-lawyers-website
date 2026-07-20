@@ -6,7 +6,6 @@ export type PersonSlug =
   | "james-xi"
   | "qinyi-li"
   | "jingjing-luan"
-  | "annie-rao"
   | "wilson-zhang";
 
 export type Person = {
@@ -117,19 +116,6 @@ export const people: Person[] = [
     title: "Jingjing Luan – United Associates Barristers & Solicitors",
     metaDesc:
       "Meet Jingjing Luan, a lawyer at United Associates Barristers & Solicitors, practising across migration, property, family and employment law.",
-    about: [],
-    qualifications: [],
-    education: [],
-    bioStatus: "needs-content",
-  },
-  {
-    slug: "annie-rao",
-    name: "Annie Rao",
-    role: "Lawyer",
-    photo: "/images/people/annie-rao.png",
-    title: "Annie Rao – United Associates Barristers & Solicitors",
-    metaDesc:
-      "Meet Annie Rao, a lawyer at United Associates Barristers & Solicitors, practising in criminal defence.",
     about: [],
     qualifications: [],
     education: [],
